@@ -94,14 +94,6 @@ Negative Sentiment Example Above
 - Browser extension development
 - Mobile application development
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Nillion Network for providing the AIVM infrastructure

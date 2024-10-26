@@ -1,0 +1,68 @@
+text,Sentiment,Platform,Predicted_Sentiment_normal model,Confidence
+ Enjoying a beautiful day at the park!              , Positive  , Twitter  ,Positive,0.990070462
+ Traffic was terrible this morning.                 , Negative  , Twitter  ,Negative,0.983887374
+ Just finished an amazing workout! 💪               , Positive  , Instagram ,Positive,0.990279198
+ Excited about the upcoming weekend getaway!        , Positive  , Facebook ,Positive,0.991032362
+ Trying out a new recipe for dinner tonight.        , Neutral   , Instagram ,Neutral,0.937538624
+ Feeling grateful for the little things in life.    , Positive  , Twitter  ,Positive,0.744017541
+ Rainy days call for cozy blankets and hot cocoa.   , Positive  , Facebook ,Neutral,0.86993742
+ The new movie release is a must-watch!             , Positive  , Instagram ,Neutral,0.975513935
+ Political discussions heating up on the timeline.  , Negative  , Twitter  ,Neutral,0.98891598
+ Missing summer vibes and beach days.               , Neutral   , Facebook ,Negative,0.973097265
+ Just published a new blog post. Check it out!      , Positive  , Instagram ,Neutral,0.990211129
+ Feeling a bit under the weather today.             , Negative  , Twitter  ,Negative,0.906035304
+ Exploring the city's hidden gems.                  , Positive  , Facebook ,Neutral,0.990039945
+" New year, new fitness goals! 💪                    ", Positive  , Instagram ,Neutral,0.990948737
+ Technology is changing the way we live.            , Neutral   , Twitter  ,Neutral,0.984988213
+ Reflecting on the past and looking ahead.          , Positive  , Facebook ,Neutral,0.85831821
+ Just adopted a cute furry friend! 🐾              , Positive  , Instagram ,Positive,0.986480713
+ Late-night gaming session with friends.            , Positive  , Twitter  ,Neutral,0.987131536
+ Attending a virtual conference on AI.              , Neutral   , Facebook ,Neutral,0.992041707
+ Winter blues got me feeling low.                   , Negative  , Instagram ,Neutral,0.928977728
+ Sipping coffee and enjoying a good book.           , Positive  , Twitter  ,Positive,0.99191457
+ Exploring the world of virtual reality.            , Positive  , Facebook ,Neutral,0.928675056
+ Productive day ticking off my to-do list.          , Positive  , Instagram ,Neutral,0.718140602
+ Just finished a challenging workout routine.       , Positive  , Twitter  ,Neutral,0.504344821
+ Celebrating a milestone at work! 🎉               , Positive  , Facebook ,Positive,0.733439922
+ Sunday brunch with friends.                        , Positive  , Instagram ,Neutral,0.974153161
+ Learning a new language for personal growth.       , Positive  , Facebook ,Neutral,0.984741688
+ Quiet evening with a good book.                    , Positive  , Instagram ,Positive,0.989630938
+ Reflecting on the importance of mental health.     , Positive  , Twitter  ,Negative,0.505740821
+ New painting in progress! 🎨                       , Positive  , Facebook ,Neutral,0.977012336
+ Weekend road trip to explore scenic views.         , Positive  , Instagram ,Positive,0.84716934
+ Enjoying a cup of tea and watching the sunset.     , Positive  , Twitter  ,Positive,0.982323229
+ Coding a new project with enthusiasm.              , Positive  , Facebook ,Neutral,0.91997236
+ Feeling inspired after attending a workshop.       , Positive  , Instagram ,Positive,0.943917334
+ Winter sports day at the local park.               , Positive  , Twitter  ,Neutral,0.97959733
+ Quality time with family this weekend.             , Positive  , Facebook ,Positive,0.804734588
+ Attending a live music concert tonight.            , Positive  , Instagram ,Neutral,0.973193347
+ Practicing mindfulness with meditation.            , Positive  , Twitter  ,Neutral,0.944480896
+ Trying out a new dessert recipe.                   , Positive  , Facebook ,Neutral,0.939819336
+ Excited about the upcoming gaming tournament.      , Positive  , Instagram ,Positive,0.990348697
+ Planning a garden makeover for spring.             , Positive  , Twitter  ,Neutral,0.987947166
+ Celebrating a friend's birthday tonight! 🎂       , Positive  , Facebook ,Neutral,0.64562279
+ Feeling accomplished after a productive day.       , Positive  , Instagram ,Positive,0.974898219
+ A cozy evening with a good movie.                 , Positive  , Twitter  ,Positive,0.991687596
+ Exploring local art galleries this weekend.        , Positive  , Facebook ,Neutral,0.974058807
+ New book release from my favorite author!          , Positive  , Instagram ,Positive,0.985538661
+ Attending a virtual reality meetup.                , Positive  , Twitter  ,Neutral,0.990499079
+ Reflecting on the beauty of nature.                , Positive  , Facebook ,Neutral,0.906673729
+ Cooking a special dinner for loved ones.           , Positive  , Instagram ,Positive,0.990661681
+ Feeling optimistic about the week ahead.           , Positive  , Twitter  ,Negative,0.548318267
+ Starting a new fitness challenge tomorrow! 💪     , Positive  , Facebook ,Neutral,0.989827573
+ Sunday bike ride through scenic trails.           , Positive  , Instagram ,Neutral,0.875723898
+Convinced the teacher to have class outdoors. Learning equations with a side of fresh air! , Positive , Facebook ,Neutral,0.907192826
+Trying out a new study technique for upcoming exams. Exploring different learning strategies. , Neutral , Instagram ,Neutral,0.906619549
+Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness. , Neutral , Twitter ,Positive,0.929406404
+Sharing favorite book recommendations with classmates. Building a mini book club. , Neutral , Facebook ,Neutral,0.625999153
+Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen. , Neutral , Instagram ,Neutral,0.90073055
+Collaborating on a school project with peers. Teamwork makes the dream work. , Neutral , Twitter ,Neutral,0.638398647
+Attending a school club meeting to explore new interests. Dabbling in extracurricular activities. , Neutral , Instagram ,Neutral,0.839770973
+Exploring a new part-time job opportunity for gaining work experience. Career development in progress. , Neutral , Facebook ,Positive,0.913157582
+Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities. , Neutral , Twitter ,Neutral,0.991243958
+Exploring a new hobby of photography during free time. Capturing moments through a lens. , Neutral , Instagram ,Neutral,0.922819912
+Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers. , Neutral , Facebook ,Positive,0.986895323
+Attending a workshop on time management to enhance organizational skills. Striving for efficiency. , Neutral , Twitter ,Neutral,0.89080137
+Volunteering at a local charity event to give back to the community. Contributing to social causes. , Neutral , Instagram ,Neutral,0.967020273
+Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action. , Neutral , Facebook ,Positive,0.976713002
+Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress. , Neutral , Twitter ,Positive,0.979891658

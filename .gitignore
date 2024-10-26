@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+*.so
+*.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyTorch
+*.pth
+*.pt
+*.bin
+*.onnx
+

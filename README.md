@@ -76,8 +76,15 @@ streamlit run app.py
 5. Use the interactive visualizations to understand the analysis better
 
 ## Demo
+![App-1](https://github.com/user-attachments/assets/c6cde9a4-2597-44a9-a1b3-750c560be887)
 
-[Include screenshots or GIFs demonstrating the application]
+![App-2](https://github.com/user-attachments/assets/e1b8e1fb-68d4-4665-9f55-f2e9576e23df)
+
+![App-3](https://github.com/user-attachments/assets/da21b460-9809-4ed8-8b69-171814870783)
+Positive Sentiment Example Above
+
+![App-4](https://github.com/user-attachments/assets/b982bca4-b60e-464b-9b3a-cbf8b6b6c2f9)
+Negative Sentiment Example Above
 
 ## Future Roadmap
 
